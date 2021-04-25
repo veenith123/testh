@@ -1,0 +1,313 @@
+.MYHEADING{
+    margin-left: 380px;
+   }
+   
+   
+   
+   .menu{
+       display: flex;
+       justify-content: space-between;
+       background-color: black;
+       padding: 80px;
+       font-size: 20px;
+       font-family: sans-serif;
+       font-weight: 400;
+       color: white;
+   }
+   .bananamenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.bananamenu img{
+    transform: scale(1.91);
+}
+
+.cabbagemenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.cabbagemenu img{
+    transform: scale(1.91);
+}
+
+.carrotmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.carrotmenu img{
+    transform: scale(1.91);
+}
+
+.croissantmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.croissantmenu img{
+    transform: scale(1.91);
+}
+
+.cupcakemenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.cupcakemenu img{
+    transform: scale(1.91);
+}
+
+.icecreammenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.icecreammenu img{
+    transform: scale(1.91);
+}
+
+.orangemenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.orangemenu img{
+    transform: scale(1.91);
+}
+.popsiclemenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.popsiclemenu img{
+    transform: scale(1.91);
+}
+.turnipmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.turnipmenu img{
+    transform: scale(1.91);
+}
+
+.watermelonmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.watermelonmenu img{
+    transform: scale(1.91);
+}
+
+   
+   body{
+       margin: 0px;
+       background-color:#f7f2f2;
+       
+   }
+   
+   a:link{
+       color:white;
+   }
+   a:visited{
+       color:white;
+   }
+   .bodyimg{
+       position: relative;
+   }
+   .bodyimg p{
+       color:#f7f2f2;
+       font-size: 55px;
+       font-family: fantasy;
+       position: absolute;
+       top:10%;
+       left:50%;
+       transform: translate(-50%,-50%);
+   }
+   .bodyimg h3{
+       color:#f7f2f2;
+       font-family: fantasy;
+       font-size: 30px;
+       width: 1600px;
+       position: absolute;
+       top:40%;
+       left:45%;
+       transform: translate(-40%, -40%);
+   }
+   .grid{
+       display: flex;
+       flex-wrap: wrap;
+       margin: 40px;
+       font-family: sans-serif;
+       
+   }
+   .grid img{
+       border: 2px solid black;
+       border-radius: 50px;
+   }
+   .origami {
+       
+       border-radius: 20px;
+       background-color: #ffffff;
+       padding: 30px;
+       margin: 25px;
+       width:310px;
+       font-family: fantasy;
+       
+   }
+   .origami:hover{
+       transform: scale(1.2);
+   }
+   .banana {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.cabbage {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.carrot {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.croissant {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.cupcake {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.icecream {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.orange {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.popsicle {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.turnip {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.watermelon {
+       
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}

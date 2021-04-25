@@ -1,0 +1,185 @@
+.MYHEADING{
+ margin-left: 380px;
+}
+
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.menu img{
+    transform: scale(1.91);
+}
+.animalmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.animalmenu img{
+    transform: scale(1.91);
+}
+
+.flowermenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.flowermenu img{
+    transform: scale(1.91);
+}
+
+.Materialmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.Materialmenu img{
+    transform: scale(1.91);
+}
+.foodmenu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.foodmenu img{
+    transform: scale(1.91);
+}
+
+body{
+    margin: 0px;
+    background-color:#f7f2f2;
+    
+}
+
+a:link{
+    color:white;
+}
+a:visited{
+    color:white;
+}
+.bodyimg{
+    position: relative;
+}
+.bodyimg p{
+    color:#f7f2f2;
+    font-size: 55px;
+    font-family: fantasy;
+    position: absolute;
+    top:10%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.bodyimg h3{
+    color:#f7f2f2;
+    font-family: fantasy;
+    font-size: 30px;
+    width: 800px;
+    position: absolute;
+    top:40%;
+    left:45%;
+    transform: translate(-40%, -40%);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.origami:hover{
+    transform: scale(1.2);
+}
+.animal {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.animal:hover{
+    transform: scale(1.2);
+}
+.food {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+.food:hover{
+    transform: scale(1.2);
+}
+.flower {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:640px;
+    font-family: fantasy;
+    
+}
+.flower:hover{
+    transform: scale(1.1);
+}
+.Material {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:640px;
+    font-family: fantasy;
+    
+}
+.Material:hover{
+    transform: scale(1.1);
+}
+
